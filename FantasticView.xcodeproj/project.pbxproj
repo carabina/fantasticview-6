@@ -12,7 +12,7 @@
 		7526C41C1F963B95005ED540 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7526C41A1F963B95005ED540 /* Main.storyboard */; };
 		7526C41E1F963B95005ED540 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7526C41D1F963B95005ED540 /* Assets.xcassets */; };
 		7526C4211F963B95005ED540 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7526C41F1F963B95005ED540 /* LaunchScreen.storyboard */; };
-		7526C4291F963BCE005ED540 /* File.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7526C4281F963BCE005ED540 /* File.swift */; };
+		7526C4291F963BCE005ED540 /* FantasticView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7526C4281F963BCE005ED540 /* FantasticView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,7 +23,7 @@
 		7526C41D1F963B95005ED540 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7526C4201F963B95005ED540 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7526C4221F963B95005ED540 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		7526C4281F963BCE005ED540 /* File.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = File.swift; sourceTree = "<group>"; };
+		7526C4281F963BCE005ED540 /* FantasticView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FantasticView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,7 +62,7 @@
 				7526C41D1F963B95005ED540 /* Assets.xcassets */,
 				7526C41F1F963B95005ED540 /* LaunchScreen.storyboard */,
 				7526C4221F963B95005ED540 /* Info.plist */,
-				7526C4281F963BCE005ED540 /* File.swift */,
+				7526C4281F963BCE005ED540 /* FantasticView.swift */,
 			);
 			path = FantasticView;
 			sourceTree = "<group>";
@@ -140,7 +140,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7526C4191F963B95005ED540 /* ViewController.swift in Sources */,
-				7526C4291F963BCE005ED540 /* File.swift in Sources */,
+				7526C4291F963BCE005ED540 /* FantasticView.swift in Sources */,
 				7526C4171F963B95005ED540 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
